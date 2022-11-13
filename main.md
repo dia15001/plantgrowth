@@ -23,3 +23,5 @@ We choose Grass because:
 ## Related Research
 
 We did research about our experiment. We looked at [Grow Lights](https://en.wikipedia.org/wiki/Grow_light) and how it affects the growth of plants.
+
+![Growth Lights for Plants](![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
