@@ -25,3 +25,10 @@ We choose Grass because:
 We did research about our experiment. We looked at [Grow Lights](https://en.wikipedia.org/wiki/Grow_light) and how it affects the growth of plants.
 
 ![This is an image](https://www.gardeningknowhow.com/wp-content/uploads/2019/09/LED-grow-light-400x267.jpg)
+
+# Thats it for now.
+Did you not find what you were looking for?
+
+Try clicking "Go to file" and type in what you are looking for.
+
+For example: resources, plant information.
