@@ -33,4 +33,4 @@ Did you not find what you were looking for?
 
 Try clicking "Go to file" and type in what you are looking for.
 
-For example: resources, plant information.
+For example: resources.md
