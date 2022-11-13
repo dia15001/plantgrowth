@@ -20,3 +20,6 @@ We choose Grass because:
 - It grows fast
 - It does not grow too tall
 ##
+## Related Research
+##
+We did research about our experiment. We looked at [Grow Lights](https://en.wikipedia.org/wiki/Grow_light)and how it affects the growth of plants.
