@@ -1,6 +1,8 @@
 # Resources
 These are the resources that were used in the experiment.
 
-- Air Quality Sensor
+- Sunlight
 - Light Bulb
 - Grass Seeds
+
+Note: These are only the required resources.
