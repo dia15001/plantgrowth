@@ -9,6 +9,7 @@ Plant Growth Science Experiment. Do plants grow better under sunlight or artific
 
 We have everything planned and we are getting ready for the experiment.
 
+##
 ## Plant Information
 
 The plant we will be using for the experiment is [Grass.](https://en.wikipedia.org/wiki/Poaceae)
