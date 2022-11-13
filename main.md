@@ -13,3 +13,10 @@ We have everything planned and we are getting ready for the experiment.
 ## Plant Information
 
 The plant we will be using for the experiment is [Grass.](https://en.wikipedia.org/wiki/Poaceae)
+
+We choose Grass because:
+##
+- It is easy to take care of
+- It grows fast
+- It does not grow too tall
+##
