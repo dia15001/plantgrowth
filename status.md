@@ -7,4 +7,4 @@ This is the current status of our experiment. Check to see what we have done and
 - [ ] Experiment Done
 - [ ] Evaluating and Reporting
 - [ ] Report Done
-- [ ] Curently in Science Fair
+- [ ] Currently in Science Fair
