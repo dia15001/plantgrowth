@@ -4,6 +4,7 @@ This is the current status of our experiment. Check to see what we have done and
 - [x] Research
 - [x] Materials & Resources
 - [x] Preparing Experiment
+- [ ] Doing Experiment
 - [ ] Experiment Done
 - [ ] Evaluating and Reporting
 - [ ] Report Done
